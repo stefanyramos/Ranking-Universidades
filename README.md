@@ -1,7 +1,7 @@
 # Ranking-Universidades
 Trabalho de MQA 2020 com a professora Ana Amélia. Nesse repositório, iremos analisar um dataset com ranking mundial das universidades, investigando as melhores universidades do mundo. Esse dataset pode ser encontrado [aqui](https://www.kaggle.com/mylesoneill/world-university-rankings).
 
-###Tarefas: 
+### Tarefas: 
 
 **Sobre o Dataset:**
 - [ ] Quem fez o levantamento dos dados (empresa, instituição de pesquisa, universidade, endereço)? 
