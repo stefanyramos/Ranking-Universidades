@@ -1,4 +1,3 @@
-<<<<<<< develop
 # Trabalho MQA
 Trabalho de MQA 2020 com a professora Ana Amélia. Nesse repositório, iremos analisar um dataset com ranking mundial das universidades, investigando as melhores universidades do mundo. Esse dataset pode ser encontrado aqui.
 
@@ -34,4 +33,4 @@ Trabalho de MQA 2020 com a professora Ana Amélia. Nesse repositório, iremos an
 
 **Estatística Descritiva:**
 - [ ] Apresentar todas as variáveis individualmente e cruzando-as entre si, quando necessário. É necessário utilizar sempre medidas-resumo, tabelas de distribuição de frequências e gráficos.
->>>>>>> main
+
