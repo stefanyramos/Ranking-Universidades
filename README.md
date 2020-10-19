@@ -14,6 +14,8 @@ Variáveis
  Trocar os nomes (codificados ou em inglês)
 Estatística Descritiva:
 
+ Apresentar todas as variáveis individualmente e cruzando-as entre si, quando necessário. É necessário utilizar sempre medidas-resumo, tabelas de distribuição de frequências e gráficos. teste de pull request 2
+=======
  Apresentar todas as variáveis individualmente e cruzando-as entre si, quando necessário. É necessário utilizar sempre medidas-resumo, tabelas de distribuição de frequências e gráficos.
 =======
 # Ranking-Universidades
@@ -30,6 +32,5 @@ Trabalho de MQA 2020 com a professora Ana Amélia. Nesse repositório, iremos an
 **Variáveis**
 - [ ] Identificar e classificar.
 - [ ] Trocar os nomes (codificados ou em inglês)
-
 **Estatística Descritiva:**
 - [ ] Apresentar todas as variáveis individualmente e cruzando-as entre si, quando necessário. É necessário utilizar sempre medidas-resumo, tabelas de distribuição de frequências e gráficos.
